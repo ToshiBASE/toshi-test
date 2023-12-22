@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://toshibase.github.io/toshi-test/static/css/main.d3995c50.css",
-    "main.js": "https://toshibase.github.io/toshi-test/static/js/main.13faa070.js",
+    "main.js": "https://toshibase.github.io/toshi-test/static/js/main.0007e108.js",
     "static/js/905.2534eefa.chunk.js": "https://toshibase.github.io/toshi-test/static/js/905.2534eefa.chunk.js",
     "static/js/406.9356adcc.chunk.js": "https://toshibase.github.io/toshi-test/static/js/406.9356adcc.chunk.js",
     "static/js/921.74d75b99.chunk.js": "https://toshibase.github.io/toshi-test/static/js/921.74d75b99.chunk.js",
@@ -86,6 +86,6 @@
   },
   "entrypoints": [
     "static/css/main.d3995c50.css",
-    "static/js/main.13faa070.js"
+    "static/js/main.0007e108.js"
   ]
 }
