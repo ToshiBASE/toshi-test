@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://toshibase.github.io/toshi-test/static/css/main.d3995c50.css",
-    "main.js": "https://toshibase.github.io/toshi-test/static/js/main.4640a3c8.js",
+    "main.js": "https://toshibase.github.io/toshi-test/static/js/main.13faa070.js",
     "static/js/905.2534eefa.chunk.js": "https://toshibase.github.io/toshi-test/static/js/905.2534eefa.chunk.js",
     "static/js/406.9356adcc.chunk.js": "https://toshibase.github.io/toshi-test/static/js/406.9356adcc.chunk.js",
     "static/js/921.74d75b99.chunk.js": "https://toshibase.github.io/toshi-test/static/js/921.74d75b99.chunk.js",
@@ -67,6 +67,7 @@
     "static/media/home-swap.svg": "https://toshibase.github.io/toshi-test/static/media/home-swap.a4ea4e233624312647ec9caf54644548.svg",
     "static/media/home-lock.svg": "https://toshibase.github.io/toshi-test/static/media/home-lock.e3fa56c0327ec627d65d2306a319c513.svg",
     "static/media/money.svg": "https://toshibase.github.io/toshi-test/static/media/money.a69353a267ba8278c4a4d1e6c52c13ff.svg",
+    "static/media/back-button.svg": "https://toshibase.github.io/toshi-test/static/media/back-button.5a0df44dd77be4724fef0c4a1d9d033b.svg",
     "static/media/launchpad.svg": "https://toshibase.github.io/toshi-test/static/media/launchpad.983dee2380421fb3c279000bc7e83cec.svg",
     "static/media/multisender.svg": "https://toshibase.github.io/toshi-test/static/media/multisender.efc2dd28e19be706d048197090d89397.svg",
     "static/media/createToken.svg": "https://toshibase.github.io/toshi-test/static/media/createToken.63c170eaf0805a8e5ceb29dbd0548283.svg",
@@ -85,6 +86,6 @@
   },
   "entrypoints": [
     "static/css/main.d3995c50.css",
-    "static/js/main.4640a3c8.js"
+    "static/js/main.13faa070.js"
   ]
 }
