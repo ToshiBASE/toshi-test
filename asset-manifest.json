@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://toshibase.github.io/toshi-test/static/css/main.d3995c50.css",
-    "main.js": "https://toshibase.github.io/toshi-test/static/js/main.01d3fc1c.js",
+    "main.js": "https://toshibase.github.io/toshi-test/static/js/main.08430542.js",
     "static/js/8905.190c22b5.chunk.js": "https://toshibase.github.io/toshi-test/static/js/8905.190c22b5.chunk.js",
     "static/js/5406.87beaacb.chunk.js": "https://toshibase.github.io/toshi-test/static/js/5406.87beaacb.chunk.js",
     "static/js/9921.0fe17c33.chunk.js": "https://toshibase.github.io/toshi-test/static/js/9921.0fe17c33.chunk.js",
@@ -53,6 +53,7 @@
     "static/js/6544.e1353651.chunk.js": "https://toshibase.github.io/toshi-test/static/js/6544.e1353651.chunk.js",
     "static/js/6316.ed7d6564.chunk.js": "https://toshibase.github.io/toshi-test/static/js/6316.ed7d6564.chunk.js",
     "static/js/316.6d49c630.chunk.js": "https://toshibase.github.io/toshi-test/static/js/316.6d49c630.chunk.js",
+    "static/media/rocket.svg": "https://toshibase.github.io/toshi-test/static/media/rocket.11403103062487a84ed6b289ea38b2af.svg",
     "static/media/Success_Image.svg": "https://toshibase.github.io/toshi-test/static/media/Success_Image.dddb6cd1605399cf0f8983f8e46b8a0e.svg",
     "static/media/Toshi_Logo.png": "https://toshibase.github.io/toshi-test/static/media/Toshi_Logo.c3e46f97ca24353faed6.png",
     "static/media/Toshi_Text.png": "https://toshibase.github.io/toshi-test/static/media/Toshi_Text.c288e36533b783903a89.png",
@@ -88,6 +89,6 @@
   },
   "entrypoints": [
     "static/css/main.d3995c50.css",
-    "static/js/main.01d3fc1c.js"
+    "static/js/main.08430542.js"
   ]
 }
