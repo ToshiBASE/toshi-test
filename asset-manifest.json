@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://toshibase.github.io/toshi-test/static/css/main.d3995c50.css",
-    "main.js": "https://toshibase.github.io/toshi-test/static/js/main.3f1fff4e.js",
+    "main.js": "https://toshibase.github.io/toshi-test/static/js/main.0d03e1f7.js",
     "static/js/8905.190c22b5.chunk.js": "https://toshibase.github.io/toshi-test/static/js/8905.190c22b5.chunk.js",
     "static/js/5406.87beaacb.chunk.js": "https://toshibase.github.io/toshi-test/static/js/5406.87beaacb.chunk.js",
     "static/js/9921.0fe17c33.chunk.js": "https://toshibase.github.io/toshi-test/static/js/9921.0fe17c33.chunk.js",
@@ -53,8 +53,8 @@
     "static/js/6544.e1353651.chunk.js": "https://toshibase.github.io/toshi-test/static/js/6544.e1353651.chunk.js",
     "static/js/6316.ed7d6564.chunk.js": "https://toshibase.github.io/toshi-test/static/js/6316.ed7d6564.chunk.js",
     "static/js/316.6d49c630.chunk.js": "https://toshibase.github.io/toshi-test/static/js/316.6d49c630.chunk.js",
-    "static/media/rocket.svg": "https://toshibase.github.io/toshi-test/static/media/rocket.11403103062487a84ed6b289ea38b2af.svg",
     "static/media/Success_Image.svg": "https://toshibase.github.io/toshi-test/static/media/Success_Image.dddb6cd1605399cf0f8983f8e46b8a0e.svg",
+    "static/media/ComingSoon.png": "https://toshibase.github.io/toshi-test/static/media/ComingSoon.4da74507900a1372268b.png",
     "static/media/Toshi_Logo.png": "https://toshibase.github.io/toshi-test/static/media/Toshi_Logo.c3e46f97ca24353faed6.png",
     "static/media/Toshi_Text.png": "https://toshibase.github.io/toshi-test/static/media/Toshi_Text.c288e36533b783903a89.png",
     "static/media/ToshiCat.svg": "https://toshibase.github.io/toshi-test/static/media/ToshiCat.99a46cc33ce12f4d5c4f1bef922b0bb7.svg",
@@ -63,7 +63,6 @@
     "static/media/Prototype.ttf": "https://toshibase.github.io/toshi-test/static/media/Prototype.be9924a47c44090561d7.ttf",
     "static/media/swap.svg": "https://toshibase.github.io/toshi-test/static/media/swap.9e83cae1d37195baeac78d3a1193763f.svg",
     "static/media/tokenIcon.svg": "https://toshibase.github.io/toshi-test/static/media/tokenIcon.78e2850ae0192ab782d97913850bf6d6.svg",
-    "static/media/info_bg.jpg": "https://toshibase.github.io/toshi-test/static/media/info_bg.b100fd6b2d262a1cf253.jpg",
     "static/media/home-token.svg": "https://toshibase.github.io/toshi-test/static/media/home-token.b15e6a00b66d069af1da5904f2b0c47b.svg",
     "static/media/home-launchpad.svg": "https://toshibase.github.io/toshi-test/static/media/home-launchpad.a22c297fa460c0df80bdbc865b861ba5.svg",
     "static/media/home-multi.svg": "https://toshibase.github.io/toshi-test/static/media/home-multi.f71b528615acbc707ececb369a62ec8f.svg",
@@ -89,6 +88,6 @@
   },
   "entrypoints": [
     "static/css/main.d3995c50.css",
-    "static/js/main.3f1fff4e.js"
+    "static/js/main.0d03e1f7.js"
   ]
 }
